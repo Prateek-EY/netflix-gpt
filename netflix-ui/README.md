@@ -1,6 +1,8 @@
 # Netflix GPT
 
 - Create React App with create-react-app
+- Form validation 
+- useRef hook
 
 # Features
 - Login SignIn and Sign up form
@@ -13,5 +15,6 @@
         - Movie Suggestions
             - Movie Lists * n
             -
+
 - Netflix Gpt
     - Search Bar
